@@ -2,8 +2,6 @@
 ---
 Project start up "เว็บประมูลสินค้ามือสอง"
 
-[![Build Status](http://#)
-
 ## Requirements
 
   * PHP 5.5.9 or higher;
