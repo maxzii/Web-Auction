@@ -1,4 +1,4 @@
-# Auction system beta 0.1
+Auction system beta 0.1
 ---
 Project start up "เว็บประมูลสินค้ามือสอง"
 
